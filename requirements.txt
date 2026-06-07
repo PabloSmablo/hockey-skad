@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 websockets
-beautifulsoup4
+bs4
 requests
 pydantic
