@@ -4,3 +4,6 @@ hockey_team_v4.db
 # Временные файлы Python (их тоже не нужно тащить в облако)
 __pycache__/
 *.pyc
+venv/
+env/
+.venv/
