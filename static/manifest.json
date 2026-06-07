@@ -1,0 +1,16 @@
+{
+  "name": "ХК Парнас",
+  "short_name": "Парнас",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e0f2fe",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/static/icon.png",
+      "sizes": "192x192 512x512 1024x1024 any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

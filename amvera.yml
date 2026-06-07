@@ -1,0 +1,11 @@
+meta:
+  environment: python
+  toolchain: pip
+
+build:
+  requirements: requirements.txt
+
+run:
+  command: uvicorn app:app --host 0.0.0.0 --port 80 --ws websockets
+  persistence:
+    - /data
